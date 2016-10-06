@@ -1,0 +1,12 @@
+body{background-image: url(http://s2.favim.com/610/150708/cute-kawaii-pastel-pink-Favim.com-2923153.jpg)}
+
+a:link, a:visited {
+    background: url(http://31.media.tumblr.com/62f2b41f1c8909f33f97445a395ee89d/tumblr_mzavshiJOB1snc5kxo1_500.gif);
+    color: black;
+    padding: 60px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+.begin:hover{color:#3d5c5c}
